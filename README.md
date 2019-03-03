@@ -1,7 +1,7 @@
 # Liquid Foam Simulation
 
 <p align="center">
-    <img src="./results/result_0.gif" width="250"><img src="./results/result_1.gif" width="250"><img src="./results/result_2.gif" width="250">
+    <img src="./results/compressed_0.gif" width="250"><img src="./results/compressed_1.gif" width="250"><img src="./results/compressed_2.gif" width="250">
 </p>
 
 
