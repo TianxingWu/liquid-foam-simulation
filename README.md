@@ -5,6 +5,11 @@
 </p>
 
 
+**4 May 2019**:
+
+* Add mode selection function
+- Add multi-obstacles mode
+
 ## What's this
 This is a Matlab project for simulating liquid foams. 
 
