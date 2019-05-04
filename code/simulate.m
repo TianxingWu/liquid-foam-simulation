@@ -20,6 +20,7 @@ mode = 4; % select simulation mode
 % MODE_1: no objects(/obstacles)
 % MODE_2: cylinder object
 % MODE_3: hemisphere object
+% MODE_4: 2 cylinder objects
 
 % <PARAMETERS OF ENVIRONMENT> =============================================
 % 1 -- gravity (1 x 3)
