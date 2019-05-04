@@ -10,7 +10,7 @@ This is a Matlab project for simulating liquid foams.
 
 The algorithm is based on the method presented by the paper in [*Reference*](#Reference) with some modifications. To improve computing efficiency, it has been optimised to a vectorized version.
 
-This algorithm may also be useful in multi-agent control system.
+This project may also be useful for designing a decentralised flocking algorithm for robotic swarms.
 
 ## How to use
 Put the two m-files (a script file and a function file) in the same directory, then run the script file [simulate.m](/code/simulate.m)
