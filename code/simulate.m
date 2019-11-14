@@ -1,4 +1,4 @@
-close all;
+close all;clear;clc;
 
 %% DECLARE PRE-SET GLOBAL PARAMETERS
 global F_g_set; % gravity (1 x 3)
