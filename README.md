@@ -13,7 +13,7 @@
 ## What's this
 This is a Matlab project for simulating liquid foams. 
 
-The algorithm is based on the method presented by the paper in [*Reference*](#Reference) with some modifications. To improve computing efficiency, it has been optimised to a vectorized version.
+The algorithm is based on the method presented by the paper in [*Reference*](#Reference)(#http://mayankagr.in/images/matlab_tutorial.pdf) with some modifications. To improve computing efficiency, it has been optimised to a vectorized version.
 
 This project may also be useful for designing a decentralised flocking algorithm for robotic swarms.
 
